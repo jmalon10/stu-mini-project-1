@@ -28,6 +28,7 @@ main {
 
 section {
     background-color: #E8CEBF; 
+    padding-bottom: 20px;
 }
 form {
     border: 2px solid #DDAF94;
